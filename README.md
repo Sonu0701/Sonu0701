@@ -1,3 +1,14 @@
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
+![Fresher](https://img.shields.io/badge/Fresher-2026-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+</div>
+
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar;Aspiring+AI+%2F+ML+Engineer;Python+%C2%B7+NLP+%C2%B7+Generative+AI;Final+Year+CS+Student" alt="Typing SVG" />
 </h1>
@@ -86,6 +97,7 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sonu0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu0701&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
@@ -95,7 +107,8 @@
   <img src="https://streak-stats.demolab.com?user=Sonu0701&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+
+
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>

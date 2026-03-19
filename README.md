@@ -4,10 +4,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/sonu-kumar-ai">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sonukumar848213@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sonu0701&color=00D9FF&style=flat&label=Profile+Views"/>
@@ -16,23 +16,58 @@
 ---
 
 ## 👨‍💻 About Me
-```python
-class SonuKumar:
-    name       = "Sonu Kumar"
-    location   = "Dehradun, India"
-    education  = "B.Tech CS — Final Year"
-    roles      = ["Aspiring AI/ML Engineer", "Full Stack Developer"]
-    stack      = {
-        "languages" : ["Python", "JavaScript", "SQL"],
-        "ai_ml"     : ["LangChain", "OpenAI API", "Scikit-learn", "NLP"],
-        "backend"   : ["FastAPI", "Node.js"],
-        "frontend"  : ["React", "HTML", "CSS"],
-        "databases" : ["PostgreSQL", "MongoDB"],
-        "tools"     : ["Git", "Docker", "VS Code"],
-    }
-    currently  = "Building AI-powered apps & open to opportunities 🚀"
-    fun_fact   = "I debug with print() and I'm not ashamed 😄"
-` `` `
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🙋‍♂️ Who I am
+- 🎓 Final Year B.Tech CS Student, Dehradun
+- 🤖 Aspiring **AI/ML Engineer** passionate about NLP & GenAI
+- 🌍 Based in **Dehradun, India**
+- 💬 Ask me about **Python, LangChain, FastAPI, ML**
+- 🧩 Solved **200+ problems on LeetCode** (C++ & Python)
+- ⚡ Fun fact: I debug with `print()` and I'm not ashamed 😄
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🚀 What I'm up to
+- 🔭 Building **AI-powered full-stack apps**
+- 🌱 Learning **RAG pipelines, LLMs & System Design**
+- 💼 **Open to work** — AI/ML · Data Science · SDE roles
+- 🎯 Goal: Land my first role in **Generative AI / ML**
+- 📫 Reach me: **your.email@gmail.com**
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🧠 AI / ML Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🛠️ Dev Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -96,7 +131,7 @@ class SonuKumar:
 - 🔭 Building **AI-powered full-stack projects**
 - 📚 Learning **LLMs, RAG pipelines & system design**
 - 💼 Open to **AI/ML · Data Science · SDE roles** (fresher / entry-level)
-- 📫 Reach me: **YOUR_EMAIL@gmail.com**
+- 📫 Reach me: sonukumar848213@gmail.com**
 
 ---
 
@@ -106,8 +141,8 @@ class SonuKumar:
 ```
 
 **Before committing, replace these 2 things:**
-- `YOUR_LINKEDIN_USERNAME` → your actual LinkedIn username
-- `YOUR_EMAIL@gmail.com` → your real email (appears twice)
+- `sonu-kumar-ai` → your actual LinkedIn username
+- `sonukumar848213@gmail.com` → your real email (appears twice)
 
 Then commit and visit `github.com/Sonu0701` to see it live! 🎉
 

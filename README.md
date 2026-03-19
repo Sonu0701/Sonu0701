@@ -10,6 +10,9 @@
   <a href="mailto:sonukumar848213@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/sonu_kumar_123/">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Sonu0701&color=00D9FF&style=flat&label=Profile+Views"/>
 </p>
 

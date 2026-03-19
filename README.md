@@ -37,7 +37,7 @@
 - 🌱 Learning **RAG pipelines, LLMs & System Design**
 - 💼 **Open to work** — AI/ML · Data Science · SDE roles
 - 🎯 Goal: Land my first role in **Generative AI / ML**
-- 📫 Reach me: **your.email@gmail.com**
+- 📫 Reach me: sonukumar848213@gmail.com**
 
     </td>
   </tr>
@@ -138,11 +138,5 @@
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
-```
 
-**Before committing, replace these 2 things:**
-- `sonu-kumar-ai` → your actual LinkedIn username
-- `sonukumar848213@gmail.com` → your real email (appears twice)
-
-Then commit and visit `github.com/Sonu0701` to see it live! 🎉
 

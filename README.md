@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonu-kumar-025153277">
+  <a href="https://linkedin.com/in/sonu-kumar-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sonukumar848213@gmail.com">

@@ -60,48 +60,6 @@ A LangGraph `StateGraph` (not a linear chain) where a **Critic Agent scores ever
 
 ---
 
-### 💬 [Dynamic RAG Chatbot](https://github.com/Sonu0701/dynamic-rag-chatbot)
-> **[🌐 Live Demo](https://dynamic-rag-chatbot-tgpt.onrender.com)**
-
-Upload any PDF and chat with it — with **verified vector deletion** (polls Pinecone until old vectors are fully purged before re-indexing), MMR retrieval for diverse context, and a hallucination guard that blocks off-topic questions before they reach the LLM.
-
-`Python` `FastAPI` `LangChain` `Pinecone` `Mistral AI` `React.js` `Docker` `Render`
-
-**Highlights:**
-- 🛡️ Similarity-threshold hallucination guard (0.75 cutoff)
-- ⚡ Auto model fallback chain on Mistral rate limits (nemo → 7b → small)
-- 📚 Every answer cites exact source page number
-
----
-
-### 📊 [Telco Customer Churn Prediction System](https://github.com/Sonu0701/Telco-Customer-Churn-Prediction-System)
-> **[🌐 Live Demo](https://telco-customer-churn-prediction-system.onrender.com)**
-
-End-to-end ML pipeline from raw data to live API — **MLflow experiment tracking, XGBoost (ROC-AUC 0.83), and a real-time Streamlit dashboard**, with a modular train/serve-consistent codebase.
-
-`Python` `XGBoost` `Scikit-learn` `MLflow` `FastAPI` `Streamlit` `Docker` `Render`
-
-**Highlights:**
-- 🔬 Full pipeline: preprocessing → feature engineering → training → serving
-- 📈 ROC-AUC 0.83 · Recall 0.83, tuned for business impact over raw accuracy
-- 🧱 Layered architecture built for train/serve consistency
-
----
-
-### 🕵️ [AI-Powered Transaction Fraud Detection System](https://github.com/Sonu0701/AI-Powered-Transaction-Fraud-Detection-System)
-> **[🌐 Live Demo](https://fraud-detection-app-actu.onrender.com)**
-
-Real-time fraud detection combining **XGBoost + Isolation Forest + a Graph Neural Network** in a weighted ensemble, with SHAP explainability on every decision. Trained on the real Kaggle Credit Card Fraud dataset (284,807 transactions, 492 real fraud cases), reaching **AUC-ROC 0.979** on XGBoost.
-
-`Flask` `XGBoost` `PyTorch Geometric (GNN)` `SHAP` `SciPy` `Chart.js` `Docker` `Render`
-
-**Highlights:**
-- 🕸️ GNN detects fraud rings via transaction relationship graphs
-- 📊 SHAP shows the top features driving each individual fraud score
-- 🔄 Concept-drift detection (KS test + Mahalanobis distance) with weekly auto-retraining
-
----
-
 ### 🤖 [Agentic RAG Chatbot](https://github.com/Sonu0701/Agentic-RAG-Chatbot)
 > **[🌐 Live Demo](https://agentic-rag-chatbot-cxi4.onrender.com)**
 
@@ -127,6 +85,48 @@ Turns a meeting recording or YouTube link into a transcript, summary, action ite
 - 🔁 Vector store fully wiped and rebuilt per meeting — zero cross-meeting contamination
 - ✅ Auto-extracts action items, decisions, sentiment, and formal minutes
 - 📥 One-click branded PDF export
+
+---
+
+### 🕵️ [AI-Powered Transaction Fraud Detection System](https://github.com/Sonu0701/AI-Powered-Transaction-Fraud-Detection-System)
+> **[🌐 Live Demo](https://fraud-detection-app-actu.onrender.com)**
+
+Real-time fraud detection combining **XGBoost + Isolation Forest + a Graph Neural Network** in a weighted ensemble, with SHAP explainability on every decision. Trained on the real Kaggle Credit Card Fraud dataset (284,807 transactions, 492 real fraud cases), reaching **AUC-ROC 0.979** on XGBoost.
+
+`Flask` `XGBoost` `PyTorch Geometric (GNN)` `SHAP` `SciPy` `Chart.js` `Docker` `Render`
+
+**Highlights:**
+- 🕸️ GNN detects fraud rings via transaction relationship graphs
+- 📊 SHAP shows the top features driving each individual fraud score
+- 🔄 Concept-drift detection (KS test + Mahalanobis distance) with weekly auto-retraining
+
+
+---
+
+### 💬 [Dynamic RAG Chatbot](https://github.com/Sonu0701/dynamic-rag-chatbot)
+> **[🌐 Live Demo](https://dynamic-rag-chatbot-tgpt.onrender.com)**
+
+Upload any PDF and chat with it — with **verified vector deletion** (polls Pinecone until old vectors are fully purged before re-indexing), MMR retrieval for diverse context, and a hallucination guard that blocks off-topic questions before they reach the LLM.
+
+`Python` `FastAPI` `LangChain` `Pinecone` `Mistral AI` `React.js` `Docker` `Render`
+
+**Highlights:**
+- 🛡️ Similarity-threshold hallucination guard (0.75 cutoff)
+- ⚡ Auto model fallback chain on Mistral rate limits (nemo → 7b → small)
+- 📚 Every answer cites exact source page number
+
+### 📊 [Telco Customer Churn Prediction System](https://github.com/Sonu0701/Telco-Customer-Churn-Prediction-System)
+> **[🌐 Live Demo](https://telco-customer-churn-prediction-system.onrender.com)**
+
+End-to-end ML pipeline from raw data to live API — **MLflow experiment tracking, XGBoost (ROC-AUC 0.83), and a real-time Streamlit dashboard**, with a modular train/serve-consistent codebase.
+
+`Python` `XGBoost` `Scikit-learn` `MLflow` `FastAPI` `Streamlit` `Docker` `Render`
+
+**Highlights:**
+- 🔬 Full pipeline: preprocessing → feature engineering → training → serving
+- 📈 ROC-AUC 0.83 · Recall 0.83, tuned for business impact over raw accuracy
+- 🧱 Layered architecture built for train/serve consistency
+
 
 ---
 

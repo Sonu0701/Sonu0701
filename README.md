@@ -118,7 +118,7 @@ A policy-aware customer-support copilot that investigates tickets, verifies SQLi
 
 ---
 
-## ✈️ Multi-Agent Travel Planner
+## ✈️ TripPilot — Agentic Travel Planning System
 
 <p>
   <a href="https://multi-agent-travel-planner-4x09.onrender.com/">
